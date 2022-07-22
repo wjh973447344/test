@@ -14,7 +14,6 @@
 </template>
 
 <script>
-//  import { userLogin } from '../../api/api';
 
 export default {
   data () {
